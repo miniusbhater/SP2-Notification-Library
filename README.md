@@ -20,6 +20,8 @@ void SendNotification()
    }
 ```
 
+#### Text will automatically resize between font size 6 and 16 to fit inside the notification box
+
 
 
 
