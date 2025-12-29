@@ -1,5 +1,5 @@
 # SP2-Notification-Library
- A notification library for SimplePlanes2
+ #### A notification library for SimplePlanes2
 
  <img width="682" height="290" alt="image" src="https://github.com/user-attachments/assets/da8fe339-8966-4b63-9d89-99bdd33035c0" />
 
