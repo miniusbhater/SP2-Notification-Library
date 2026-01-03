@@ -10,7 +10,7 @@ namespace Notification
     {
         public const string GUID = "com.miniusbhater.SimplePlanes2.Notification";
         public const string Name = "Notification";
-        public const string Version = "1.0.0";
+        public const string Version = "1.0.1";
     }
 }
 

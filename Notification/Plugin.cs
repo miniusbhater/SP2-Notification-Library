@@ -29,6 +29,7 @@ namespace Notification
         void Start()
         {
             NotificationSendStartOrSomethingLikeThat.SendNotif();
+            CheckForUpdates.CheckForUpdate();
         }
       
 
